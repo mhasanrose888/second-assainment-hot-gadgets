@@ -1,0 +1,7 @@
+.orange-bg{
+    background-image: url(images/bg-1.png);
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
